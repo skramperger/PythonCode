@@ -1,2 +1,2 @@
 # PythonCode
-Coding Projects from Codecademy
+Personal Coding Projects + Codecademy Python Projects
