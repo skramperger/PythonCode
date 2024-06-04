@@ -32,22 +32,22 @@ To run any of these Python scripts, follow these steps:
 ## Projects and Descriptions:
 
 ### Abruptly Goblins Project
-A project to organize a gaming night by collecting gamers' availability, finding the best night, and sending invitations.
+- A project to organize a gaming night by collecting gamers' availability, finding the best night, and sending invitations.
 
 ### Encoder and Decoder
-A utility to encode and decode messages using a keyword. It demonstrates encryption and decryption techniques with customizable keywords.
+- A utility to encode and decode messages using a keyword. It demonstrates encryption and decryption techniques with customizable keywords.
 
 ### Rock Paper Scissors
-A simple implementation of the Rock, Paper, Scissors game where the player competes against the computer.
+- A simple implementation of the Rock, Paper, Scissors game where the player competes against the computer.
 
 ### Scrabble
-A program related to the Scrabble game that includes functionalities for scoring words and tracking players' scores.
+- A program related to the Scrabble game that includes functionalities for scoring words and tracking players' scores.
 
 ### number guess game
-A number guessing game where the player tries to guess a randomly generated number within a certain range.
+- A number guessing game where the player tries to guess a randomly generated number within a certain range.
 
 ### number guess game updated
-An enhanced version of the number guessing game with additional features such as animated dice rolls to show the process of guessing.
+- An enhanced version of the number guessing game with additional features such as animated dice rolls to show the process of guessing.
 
 ## Contributing
 Contributions are welcome! To contribute:
